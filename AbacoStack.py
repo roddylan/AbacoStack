@@ -1,5 +1,4 @@
 # AbacoStack.py
-# Roderick Lan
 # Contains all necessary classes
 
 
