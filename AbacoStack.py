@@ -1,11 +1,11 @@
 # AbacoStack.py
-# Roderick Lan - 1706751
+# Roderick Lan
 # Contains all necessary classes
 
 
 import random
 
-class Card: # card u want to make
+class Card: # card you want to make
     def __init__(self,width,depth): #width = colors
         self._beads = [] #list storing in order the beads in each stack, starting with the first stack to the last, each stack stored top to bottom.
         self.width = int(width)
