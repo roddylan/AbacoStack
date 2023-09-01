@@ -1,5 +1,4 @@
 # main.py
-# Roderick Lan
 # Plays AbacoStack game using AbacoStack and Card class 
 
 from AbacoStack import AbacoStack
